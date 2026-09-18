@@ -1,0 +1,8 @@
+{
+  "name": "CyberShield",
+  "description": "A polished mobile security center for monitoring threats, managing device health, and securing organizational assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
